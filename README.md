@@ -39,21 +39,3 @@ Run a collection with desired no. of iterations:
 Run with data file:
 
 `newman run <collection name> --data <file name>  -n <no.of iterations> -e <environment name>`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
